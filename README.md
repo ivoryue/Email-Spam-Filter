@@ -16,7 +16,7 @@ The statistical learning algorithms I implemented in this project are:
 
 ![image](https://cloud.githubusercontent.com/assets/16885033/18940782/4b322430-85d9-11e6-9867-c694cfae678d.png)
 
-Generally, discriminant analysis method uses Bayes theorem to separate the points into 2 groups, and minimize the number of points which classified wrong. Linear Discriminant Analysis seperate the points with strainght lines. Limit: cannot be applied to cluster data.
+Generally, discriminant analysis method uses Bayes theorem to separate the points into 2 groups, and minimize the number of points which classified wrong. Linear Discriminant Analysis seperate the points with strainght lines. Limit: cannot be applied to clustered data.
 
 ![image](https://cloud.githubusercontent.com/assets/16885033/18940783/4d8df358-85d9-11e6-8f08-67af65b14347.png)
 
