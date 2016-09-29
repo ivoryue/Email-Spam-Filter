@@ -2,7 +2,7 @@
 
 # Introduction
 
-The goal of this project is to classify spam from ham (good emails) based on the frequencies of words in the email. The project has a given dataset of word frequency of 6000+ emails, and the emails have already been classified for me to construct and test model. 
+The goal of this project is to use models to classify spam from ham (good emails) based on the frequencies of words in the email. The project has a given dataset of word frequency of 6000+ emails, and the emails have already been classified as spam or ham for me to construct and test models. 
 
 # Statistical Algorithms (Models)
 
